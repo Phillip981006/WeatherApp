@@ -9,8 +9,488 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\fonts\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-down.jpg",
+      "PackagePath": "staticwebassets\\images\\arrow-down.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-down.png",
+      "PackagePath": "staticwebassets\\images\\arrow-down.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-down@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\arrow-down@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-down@2x.png",
+      "PackagePath": "staticwebassets\\images\\arrow-down@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-gray.png",
+      "PackagePath": "staticwebassets\\images\\arrow-gray.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-gray@2x.png",
+      "PackagePath": "staticwebassets\\images\\arrow-gray@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-left-white.png",
+      "PackagePath": "staticwebassets\\images\\arrow-left-white.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow-left-white@2x.png",
+      "PackagePath": "staticwebassets\\images\\arrow-left-white@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\arrow@2x.png",
+      "PackagePath": "staticwebassets\\images\\arrow@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\banner@2x.png",
+      "PackagePath": "staticwebassets\\images\\banner@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\featured-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-image-1.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\featured-image-1@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-image-1@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\featured-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-image-2.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\featured-image-2@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-image-2@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\featured-image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-image-3.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\featured-image-3@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-image-3@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-compass.png",
+      "PackagePath": "staticwebassets\\images\\icon-compass.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-compass@2x.png",
+      "PackagePath": "staticwebassets\\images\\icon-compass@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-envelope.png",
+      "PackagePath": "staticwebassets\\images\\icon-envelope.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-envelope@2x.png",
+      "PackagePath": "staticwebassets\\images\\icon-envelope@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-marker.png",
+      "PackagePath": "staticwebassets\\images\\icon-marker.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-marker@2x.png",
+      "PackagePath": "staticwebassets\\images\\icon-marker@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-phone.png",
+      "PackagePath": "staticwebassets\\images\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-phone@2x.png",
+      "PackagePath": "staticwebassets\\images\\icon-phone@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-umberella.png",
+      "PackagePath": "staticwebassets\\images\\icon-umberella.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-umberella@2x.png",
+      "PackagePath": "staticwebassets\\images\\icon-umberella@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-wind.png",
+      "PackagePath": "staticwebassets\\images\\icon-wind.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icon-wind@2x.png",
+      "PackagePath": "staticwebassets\\images\\icon-wind@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-1.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-10.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-10.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-11.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-11.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-12.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-12.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-13.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-13.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-14.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-14.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-2.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-3.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-3.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-4.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-4.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-5.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-5.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-6.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-6.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-7.ai",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-7.ai"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-7.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-7.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-8.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-8.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\icons\\icon-9.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-9.svg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-1.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-1.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-1@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-1@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-2.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-2.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-2@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-2@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-3.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-3.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-3@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-3@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-4.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-4.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-4@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-4@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-5.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-5.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-5@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-5@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-6.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-6.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-6@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-6@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-7.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-7.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-7@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-7@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-8.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-8.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\live-camera-8@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\live-camera-8@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\logo@2x.png",
+      "PackagePath": "staticwebassets\\images\\logo@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-1.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-1.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-10.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-10.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-10@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-10@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-1@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-1@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-2.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-2.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-2@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-2@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-3.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-3.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-3@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-3@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-4.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-4.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-4@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-4@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-5.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-5.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-5@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-5@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-7.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-7.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-7@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-7@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-8.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-8.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-8@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-8@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-9.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-9.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\photo-9@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-9@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\play-button.png",
+      "PackagePath": "staticwebassets\\images\\play-button.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\play-button@2x.png",
+      "PackagePath": "staticwebassets\\images\\play-button@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\quote@2x.png",
+      "PackagePath": "staticwebassets\\images\\quote@2x.png"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-1@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-1@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-2@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-2@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-3@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-3@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-4@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-4@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-5@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-5@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-6@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-6@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-7@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-7@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-8@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-8@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-9.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\images\\thumb-9@2x.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-9@2x.jpg"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\ie-support\\html5.js",
+      "PackagePath": "staticwebassets\\js\\ie-support\\html5.js"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\ie-support\\pie.htc",
+      "PackagePath": "staticwebassets\\js\\ie-support\\pie.htc"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\ie-support\\respond.js",
+      "PackagePath": "staticwebassets\\js\\ie-support\\respond.js"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\jquery-1.11.1.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.1.min.map"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\min\\app-min.js",
+      "PackagePath": "staticwebassets\\js\\min\\app-min.js"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\min\\plugins-min.js",
+      "PackagePath": "staticwebassets\\js\\min\\plugins-min.js"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
       "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\js\\site.js",
@@ -243,6 +723,58 @@
     {
       "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\layout\\_content.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_content.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\layout\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\_components.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_components.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\_global.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_global.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\_normalize.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\_settings.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_settings.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\bootstrap-grid\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\bootstrap-grid\\_grid.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\bootstrap-grid\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\bootstrap-grid\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\libs\\bootstrap-grid\\_settings.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\bootstrap-grid\\_settings.scss"
+    },
+    {
+      "Id": "C:\\_WA_skillAss\\Weather_App\\Weather_App\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Weather_App.Microsoft.AspNetCore.StaticWebAssets.props",
